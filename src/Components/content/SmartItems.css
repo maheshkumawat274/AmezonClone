@@ -1,0 +1,28 @@
+.items{
+ height: 140px;
+ width: 150px;
+ float: left;
+ margin: 5px;
+
+}
+.section1{
+ position: absolute;
+ top: 60%;
+}
+.cardBodyItems{
+ height: 40vh;
+ width: 100%;
+}
+.CardHW{
+ height: 55vh;
+}
+@media (min-width:480px) and (max-width:576px) {
+ .col-sm-6{
+  width: 50%;
+  height: 50%;
+ }
+ .CardHW{
+  height: 65vh;
+  margin-top: 2vh;
+ }
+}

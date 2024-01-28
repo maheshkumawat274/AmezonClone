@@ -1,0 +1,74 @@
+.navigation-bottom{
+ position: relative;
+ top: 9vh;
+ background-color: rgba(8, 8, 8, 0.693);
+}
+.sidebar{
+ height: 6vh;
+ width: 6%;
+ color: white;
+ margin-left: 2px;
+ font-size: 12px;
+ font-weight: 600;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.checkbox{
+ position: relative;
+ top: 4px;
+ left: 5px;
+}
+.humbarger{
+ height: 6vh;
+ width: 6%;
+ display: none;
+ position: relative;
+ top: 4px;
+ left: 5px;
+}
+.navigation-bottom-items{
+ height: 6vh;
+ width: 25%;
+ color: white;
+ margin-left: 2px;
+ font-size: 12px;
+ font-weight: 600;
+ background-color: red;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.republic{
+ height: 6vh;
+ width: 25%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.navigation-bottom-items:hover{
+ border:2px solid white;
+ cursor: pointer;
+}
+@media (min-width:480px) and (max-width:768px) {
+ .navigation-bottom{
+  position: relative;
+  top: 23vh;
+ }
+ .allitems .navigation-bottom-items{
+  display: none;
+ }
+ .republic{
+  width: 110%;
+ }
+ .sidebar{
+  display: none;
+ }
+ .humbarger{
+  display: block;
+ }
+ input[type=checkbox]:checked~.allitems .navigation-bottom-items{
+  display: block;
+ }
+}

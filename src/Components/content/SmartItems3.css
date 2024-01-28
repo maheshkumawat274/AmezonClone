@@ -1,0 +1,14 @@
+.section3{
+ height: 55vh;
+ width: 100%;
+}
+.cardDiv{
+ height: 40vh;
+ width: 100%;
+ background-color: aqua;
+}
+@media (min-width:480px) and (max-width:768px) {
+ .cardhw{
+  margin-top: 1vh;
+ }
+}

@@ -1,0 +1,14 @@
+.section2{
+ margin-top: 14%;
+}
+@media (min-width:480px) and (max-width:768px) {
+ .section2{
+  margin-top: 211vh;
+ }
+ .items{
+  margin-left: 8vh;
+ }
+ .cardhw{
+  margin-top: 2vh;
+ }
+}

@@ -1,0 +1,16 @@
+.adsection{
+ height: 40vh;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: s;
+}
+.adsection-ad{
+ height: 80%;
+ width: 65%;
+ background-color: white;
+ border-radius: 2px ;
+ box-shadow: 0 0 0 2px white;
+ background-image: url("https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/a373daa6-fae7-4997-9ac2-9ecf182d9787.jpeg");
+}

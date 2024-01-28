@@ -1,0 +1,12 @@
+.CardHW{
+ height: 66vh;
+}
+@media (min-width:480px) and (max-width:768px) {
+ .section{
+  margin-top: 130vh;
+ }
+ .cardiv img{
+  position: relative;
+  left: 50px;
+ }
+}

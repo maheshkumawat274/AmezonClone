@@ -1,0 +1,36 @@
+.sliderimg{
+ height: 180px;
+ width: 239px;
+ position: relative;
+}
+.slider1{
+ overflow: hidden;
+}
+.slider1 ul li{
+ margin: 5px;
+ object-fit: cover;
+ object-position: center;
+ border: 0;
+}
+.sliderimg-text{
+ width: 200px; 
+ height: 25px; 
+ display: flex; 
+ padding-top: 5px;
+}
+.sliderimg-text button{
+ font-size: 10px;
+ width: 80px; 
+ height: 20px; 
+ font-weight: 700; 
+ background-color: red;
+ border-radius: 3px;
+ border: none;
+ color: white;
+}
+.sliderimg-text p{
+ font-size: 12px; 
+ padding-left: 10px; 
+ color: red; 
+ font-weight: 500;
+}
