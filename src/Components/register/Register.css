@@ -1,0 +1,19 @@
+
+.buttonSign{
+  border: 1px solid rgba(187, 182, 182, 0.735);
+  box-shadow: 0 0 5px gainsboro;
+}
+.buttonSign:hover{
+  background-color: rgb(228, 226, 226);
+}
+li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
