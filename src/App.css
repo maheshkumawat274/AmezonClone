@@ -4,3 +4,9 @@
  box-sizing: border-box;
  
 }
+.card{
+  border-radius: 3px;
+}
+.card-body img{
+  border-radius: 2px;
+}

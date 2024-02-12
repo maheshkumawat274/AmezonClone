@@ -4,7 +4,8 @@
  position: relative;
 }
 .slider1{
- overflow: hidden;
+ /* white-space: nowrap; */
+ overflow-x: auto;
 }
 .slider1 ul li{
  margin: 5px;

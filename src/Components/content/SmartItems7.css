@@ -1,5 +1,20 @@
-@media (min-width:480px) and (max-width:768px) {
+#smartitem7-cardhw{
+  height: 52px;
+}
+.smartitem7-box{
+  height: 140px;
+  width: 150px;
+  float: left;
+  margin: 5px;
+ }
+@media (min-width:450px) and (max-width:768px) {
  .carhw{
+  margin-top: 2vh;
+ }
+ .smartitem7-box{
+  margin-left: 6.5vh;
+ }
+ .cardhwManage{
   margin-top: 2vh;
  }
 }

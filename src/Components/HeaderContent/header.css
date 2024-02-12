@@ -13,12 +13,13 @@
  align-items: center;
 }
 .navigationaddress{
- height: 9vh;
+ height: 8vh;
  width: 50%;
  float: left;
  margin-left: 17px;
  position: relative;
  top: .5vh;
+ border: 1px solid transparent;
 }
 .navigationaddress i{
  position: relative;
@@ -56,36 +57,42 @@
  background-color: rgb(96, 35, 35);
  border-radius: 5px;
  outline: none;
+ overflow: hidden;
 }
 .navselect{
  height:100%;
- width:10%;
+ width:15%;
+ font-size: 10px;
+ text-align: center;
  outline: none;
  background-color:rgb(214, 212, 212)
 }
 .navright1{
- height: 9vh;
+ height: 8vh;
  width: 25%;
  margin-left: 1%;
  position: relative;
  top: .5vh;
+ border: 1px solid transparent;
 }
 .cart{
  height: 40px;
 }
 .flag{
- height: 20px;
+ height: 15px;
+ width: 22px;
 }
 .navsign{
- height: 15px;
+ height: 13px;
  font-size: 10px;
 }
+
 .navsigns{
  font-size: 15px;
  font-weight: 600;
 }
 .navigationaddress:hover{
- border: 2px solid white;
+ border: 1px solid white;
  cursor: pointer;
 }
 .navigationimg:hover{
@@ -98,14 +105,14 @@
 .inputtag:hover{
  box-shadow: 0 0 0 5px rgb(234, 178, 23);
 }
-@media (min-width:480px) and (max-width:768px) {
+@media (min-width:450px) and (max-width:768px) {
  .navright1{
   position: relative;
  top: 0vh;
  }
  .navsigns{
   position: relative;
-  bottom: 9px;
+  bottom: 5px;
  }
  .location-address{
   position: relative;
@@ -115,4 +122,56 @@
   position: relative;
   bottom: 7px;
  }
+ .sign-item{
+  position: absolute;
+  left: -19vh;
+ }
 }
+.sign-item{
+ height: 62vh;
+ width: 70vh;
+ position: absolute;
+ right: -15vh;
+ display: none;
+ background-color: white;
+ color: black;
+ border-radius: 5px;
+ box-shadow: 0 0 5px black;
+}
+.navright1:hover{
+ .sign-item{
+  display: block;
+ }
+ cursor: pointer;
+}
+.sign-item li:hover{
+  text-decoration:underline;
+  cursor: pointer;
+  color: rgb(255, 204, 0);
+}
+.languages{
+ height: 35vh;
+ width: 30vh;
+ background-color: white;
+ position: absolute;
+ top: 55px;
+ left: 1px;
+ display: none;
+ border-radius: 5px;
+ box-shadow: 0 0 5px black;
+}
+input[type=radio]{
+ position: relative;
+ right: 15px;
+ cursor: pointer;
+}
+.languages li:hover{
+ text-decoration: underline;
+ color: rgb(255, 204, 0);
+}
+.navright1:hover{
+ .languages{
+  display: block;
+ }
+}
+

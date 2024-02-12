@@ -1,10 +1,46 @@
 .ad{
  height: 80vh;
  width: 100%;
- margin-top: 10vh;
+ margin-top: 9vh;
+ position: relative;
+}
+.leftbtn{
+  position: absolute;
+  top: 25%;
+  right: 1%;
+  height: 90px;
+  width: 25px;
+  border-radius: 5px;
+  border: none;
+}
+.rightbtn{
+  position: absolute;
+  top: 25%;
+  left: 1%;
+  height: 90px;
+  width: 25px;
+  border-radius: 5px;
+  border:none
+} 
+i{
+  height: 100vh;
+}
+.leftbtn:hover{
+  background-color: rgb(217, 215, 215);
+}
+.rightbtn:hover{
+  background-color: rgb(217, 215, 215);
 }
 @media (min-width:480px) and (max-width:768px) {
  .ad{
-  margin-top: 23.2vh;
+  margin-top: 22.1vh;
+ }
+ .leftbtn{
+  position: absolute;
+  top: 10%;
+ }
+ .rightbtn{
+  position: absolute;
+  top: 10%;
  }
 }

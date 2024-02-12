@@ -61,6 +61,102 @@ function SliderContent2() {
          </div>
          
        </div>
+     </li> 
+     <li>
+       <div class="card border-0 border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61uaZbENebL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+       <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/51o1LHgoLCL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61TRvofoIKL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/71f00u93OiL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/41UwYOep8+L._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61vTrLoGsIL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li> 
+     <li>
+       <div class="card border-0 border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61uaZbENebL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+       <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/51o1LHgoLCL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61TRvofoIKL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/71f00u93OiL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/41UwYOep8+L._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61vTrLoGsIL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
      </li>  
       
      

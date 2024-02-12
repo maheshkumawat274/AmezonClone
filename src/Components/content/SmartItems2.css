@@ -1,12 +1,18 @@
+.smartitems2-box{
+  height: 140px;
+  width: 150px;
+  float: left;
+  margin: 5px;
+}
 .section2{
- margin-top: 14%;
+ margin-top: 13%;
 }
 @media (min-width:480px) and (max-width:768px) {
  .section2{
-  margin-top: 211vh;
+  margin-top: 148vh;
  }
- .items{
-  margin-left: 8vh;
+ .smartitems2-box{
+  margin-left: 6.5vh;
  }
  .cardhw{
   margin-top: 2vh;

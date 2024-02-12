@@ -1,12 +1,24 @@
-.CardHW{
- height: 66vh;
+#smartitem6-cardhw{
+ height: 60vh;
 }
+.smartitem6-box{
+  height: 140px;
+  width: 150px;
+  float: left;
+  margin: 5px;
+ }
 @media (min-width:480px) and (max-width:768px) {
  .section{
-  margin-top: 130vh;
+  margin-top: 115vh;
  }
  .cardiv img{
   position: relative;
   left: 50px;
+ }
+ .smartitem6-box{
+  margin-left: 6.5vh;
+ }
+ #smartitem6-cardhw{
+  margin-top: 2vh;
  }
 }

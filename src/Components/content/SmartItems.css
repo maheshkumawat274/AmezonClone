@@ -1,4 +1,4 @@
-.items{
+.smartitem1-box{
  height: 140px;
  width: 150px;
  float: left;
@@ -7,22 +7,24 @@
 }
 .section1{
  position: absolute;
- top: 60%;
+ top: 55%;
 }
 .cardBodyItems{
  height: 40vh;
  width: 100%;
 }
-.CardHW{
- height: 55vh;
+#smartItem1-CardHW{
+  height: 440px;
 }
-@media (min-width:480px) and (max-width:576px) {
- .col-sm-6{
-  width: 50%;
-  height: 50%;
+@media (min-width:450px) and (max-width:768px) {
+ .col-sm-12{
+  width: 30%;
  }
- .CardHW{
-  height: 65vh;
-  margin-top: 2vh;
+ #smartItem1-CardHW{
+  margin-top: 10px;
+  height: 400px;
+ }
+ .smartitem1-box{
+  margin-left: 6.5vh;
  }
 }

@@ -92,6 +92,162 @@ function SliderContent3() {
          </div>
        </div>
      </li>  
+     <li>
+       <div class="card">
+         <div class="sliderimg d-flex justify-centent-center align-item-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/81Vzm0NAr8L._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+       <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/91aPKJ5q1qL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/91f0Vfh1MEL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg d-flex justify-centent-center align-item-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61lR93HHNiL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/81mjCn6KV0L._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61PsCls1-gL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>
+     <li>
+       <div class="card">
+         <div class="sliderimg d-flex justify-centent-center align-item-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/81Vzm0NAr8L._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+       <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/91aPKJ5q1qL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/91f0Vfh1MEL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg d-flex justify-centent-center align-item-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61lR93HHNiL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/81mjCn6KV0L._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>  
+     <li>
+     <div class="card">
+         <div class="sliderimg text-center">
+          <img className='img-fluid' src='https://m.media-amazon.com/images/I/61PsCls1-gL._AC_SY200_.jpg'></img>
+         </div>
+         <div class="card-body pt-4">
+           <div class="sliderimg-text">
+             <button>Up to 50% off</button><p>Republic Day Sale</p>
+           </div>
+           <p style={text}>Redmi 12 5G|Starting from 11999 incl...</p>
+         </div>
+       </div>
+     </li>
        
      
      </ul>

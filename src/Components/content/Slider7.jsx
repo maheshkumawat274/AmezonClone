@@ -66,7 +66,102 @@ function Slider7() {
        </div>
      </li>  
       
-     
+     <li>
+       <div class="card border-0">
+       <div className='sliderimg'>
+       <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/61i4oSOg+bL._AC_SY200_.jpg'></img>
+       </div>
+         
+       </div>
+     </li>  
+     <li>
+       <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/51Svkx9-N6L._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/61a5LNKUAZL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/61Yk1m6Da6L._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/51nXQmYdJkL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/71YzVO0qZEL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li> 
+     <li>
+       <div class="card border-0">
+       <div className='sliderimg'>
+       <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/61i4oSOg+bL._AC_SY200_.jpg'></img>
+       </div>
+         
+       </div>
+     </li>  
+     <li>
+       <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/51Svkx9-N6L._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/61a5LNKUAZL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/61Yk1m6Da6L._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/51nXQmYdJkL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li>  
+     <li>
+     <div class="card border-0">
+         <div class="sliderimg">
+          <img className='img-fluid'style={imgHW} src='https://m.media-amazon.com/images/I/71YzVO0qZEL._AC_SY200_.jpg'></img>
+         </div>
+         
+       </div>
+     </li> 
      </ul>
    </div>
    </>
