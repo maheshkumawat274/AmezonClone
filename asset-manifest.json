@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maheshkumawat274/AmezonClone.git/static/css/main.5480342b.css",
+    "main.js": "/maheshkumawat274/AmezonClone.git/static/js/main.f681d5cb.js",
+    "static/js/787.0794fca6.chunk.js": "/maheshkumawat274/AmezonClone.git/static/js/787.0794fca6.chunk.js",
+    "index.html": "/maheshkumawat274/AmezonClone.git/index.html",
+    "main.5480342b.css.map": "/maheshkumawat274/AmezonClone.git/static/css/main.5480342b.css.map",
+    "main.f681d5cb.js.map": "/maheshkumawat274/AmezonClone.git/static/js/main.f681d5cb.js.map",
+    "787.0794fca6.chunk.js.map": "/maheshkumawat274/AmezonClone.git/static/js/787.0794fca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5480342b.css",
+    "static/js/main.f681d5cb.js"
+  ]
+}
